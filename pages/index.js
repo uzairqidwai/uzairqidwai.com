@@ -55,7 +55,7 @@ export default function Home() {
         <section className={cn("bg-red pt-10 pb-16 md:pt-20 md:pb-32", heroStyles.main)}>
           <div className="container">
             <div className="flex flex-col items-center">
-              <Image src="/icons/logo-round.png" width={300} height={300} />
+              <Image src="/icons/U.svg" width={300} height={300} />
               <h1 className="font-display text-2xl md:text-4xl font-medium">Hi, I'm Uzair</h1>
               <div className="mt-6 md:max-w-5xl text-center">
                 <h1 className="font-display text-4xl md:text-7xl font-bold">Building digital solutions, innovations and experiences</h1>
