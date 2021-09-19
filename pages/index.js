@@ -63,6 +63,7 @@ export default function Home() {
               <div className="mt-8 px-4 md:px-0 md:max-w-sm">
                 <p className="font-display text-center whitespace-normal break-words" style={{ lineHeight: '26px' }}>I'm a ECE student with a passion for all things tech, tinkering and productivity. I have special interest in networking and digital systems.</p>
               </div>
+    
               <div className="flex justify-center mt-6">
                 <a 
                   href="mailto:uzair@gocybersense.com"
@@ -70,7 +71,11 @@ export default function Home() {
                     Get in touch with me
                 </a>
               </div>
+    
+    
+   
             </div>
+    
           </div>
         </section>
         <section className="bg-gray-100 py-16" id="work">
@@ -187,7 +192,18 @@ export default function Home() {
                 </div>
               </div>
     
+    
             </div>
+    
+                  <div className="flex justify-center mt-6">
+                <a 
+                  href="https://github.com/uzairqidwai/uzairqidwai.com/raw/main/public/Uzair%20Qidwai%20-%20Resume.pdf"
+                  className="transition bg-black rounded-full py-6 px-12 font-semibold font-display text-white shadow-lg hover:shadow-xl hover:scale-110">
+                    Download PDF
+                </a>
+              </div>
+    
+    
           </div>
         </section>
         <section className="bg-gray-100 py-16">
