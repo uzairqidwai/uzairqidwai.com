@@ -61,7 +61,7 @@ export default function Home() {
                 <h1 className="font-display text-4xl md:text-7xl font-bold">Building digital solutions, innovations and experiences</h1>
               </div>
               <div className="mt-8 px-4 md:px-0 md:max-w-sm">
-                <p className="font-display text-center whitespace-normal break-words" style={{ lineHeight: '26px' }}>I'm a ECE student with a passion for all things tech, tinkering and productivity. I have special interest in networking and digital systems.</p>
+                <p className="font-display text-center whitespace-normal break-words" style={{ lineHeight: '26px' }}>I'm an ECE student with a passion for all things tech, tinkering and productivity. I have a special interest in networking and digital systems.</p>
               </div>
     
               <div className="flex justify-center mt-6">
