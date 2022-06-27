@@ -233,6 +233,7 @@ export default function Home() {
                   <div className="h-48 w-full overflow-hidden">
                     <img className="object-cover rounded-t-lg w-auto" src="/icons/c-logo.svg" />
                   </div>
+                  </div>
               </div>
                   </div>
                   </div>
