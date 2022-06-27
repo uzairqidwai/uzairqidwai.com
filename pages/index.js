@@ -234,6 +234,7 @@ export default function Home() {
                     <img className="object-cover rounded-t-lg w-auto" src="/icons/c-logo.svg" />
                   </div>
                   </div>
+                  </div>
                 </a>
 
 
