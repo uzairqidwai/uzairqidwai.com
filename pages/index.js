@@ -110,6 +110,12 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full mt-8">
               <div className="w-full">
                 <h2 className="text-2xl font-semibold font-display">Experience</h2>
+
+                <div className="flex flex-col py-8 grid gap-3 transition transform hover:translate-x-2">
+                  <h3 className="font-display text-xl font-medium">Cybersense</h3>
+                  <p className="font-display text-md flex items-center">Founder&nbsp;&nbsp;</p>
+                  <p className="font-display text-gray-500">August 2020 - Current</p>
+                </div>
     
                 <div className="flex flex-col py-8 grid gap-3 transition transform hover:translate-x-2">
                   <h3 className="font-display text-xl font-medium">Cybersense</h3>
