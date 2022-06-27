@@ -217,6 +217,7 @@ export default function Home() {
             <div className="flex flex-col items-center px-6">
               <h1 className="font-display text-5xl font-semibold">Projects</h1>
               <p className="text-lg font-display text-gray-700 mt-3">Some projects I've worked on</p>
+
               <div className="grid grid-cols-1  gap-5 mt-9 max-w-6xl">
                 <a href="https://www.gocybersense.com" target="none" className="bg-white rounded-lg flex flex-col shadow-md">
                   <div className="h-48 w-full overflow-hidden">
@@ -225,6 +226,17 @@ export default function Home() {
                   <div className="flex-shrink-1 px-5 pb-5 pt-3">
                     <h3 className="text-xl font-display font-medium">Coming Soon!</h3>
                     <p className="font-display mt-1 text-gray-500">Great things coming up</p>
+                  </div>
+                </a>
+
+              <div className="grid grid-cols-1  gap-5 mt-9 max-w-6xl">
+                <a href="https://www.gocybersense.com" target="none" className="bg-white rounded-lg flex flex-col shadow-md">
+                  <div className="h-48 w-full overflow-hidden">
+                    <img className="object-cover rounded-t-lg w-auto" src="/icons/c-logo.svg" />
+                  </div>
+                  <div className="flex-shrink-1 px-5 pb-5 pt-3">
+                    <h3 className="text-xl font-display font-medium">tappy!</h3>
+                    <p className="font-display mt-1 text-gray-500">An external NFC reader</p>
                   </div>
                 </a>
 
