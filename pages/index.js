@@ -219,7 +219,7 @@ export default function Home() {
               <h1 className="font-display text-5xl font-semibold">Projects</h1>
               <p className="text-lg font-display text-gray-700 mt-3">Some projects I've worked on</p>
 
-              <div className="grid grid-cols-1 md:grid-cols-5 lg:grid-cols-5 gap-5 mt-9 max-w-6xl">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-5 mt-9 max-w-6xl">
                 <a href="https://www.gocybersense.com" target="none" className="bg-white rounded-lg flex flex-col shadow-md">
                   <div className="h-48 w-full overflow-hidden">
                     <img className="object-cover rounded-t-lg w-auto" src="/icons/c-logo.svg" />
@@ -232,7 +232,7 @@ export default function Home() {
 
                 <a href="https://github.com/uzairqidwai/tappy" target="none" className="bg-white rounded-lg flex flex-col shadow-md">
                   <div className="h-48 w-full overflow-hidden">
-                    <img className="object-cover rounded-t-lg w-auto" src="https://raw.githubusercontent.com/uzairqidwai/tappy/main/tappy_media/tappy_logo.png" />
+                    <img className="object-cover rounded-t-lg w-auto" src="/icons/c-logo.svg" />
                   </div>
                   <div className="flex-shrink-1 px-5 pb-5 pt-3">
                     <h3 className="text-xl font-display font-medium">tappy!</h3>
