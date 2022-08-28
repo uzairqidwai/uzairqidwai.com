@@ -111,16 +111,17 @@ export default function Home() {
               <div className="w-full">
                 <h2 className="text-2xl font-semibold font-display">Experience</h2>
 
-                <div className="flex flex-col py-8 grid gap-3 transition transform hover:translate-x-2">
-                  <h3 className="font-display text-xl font-medium">Verizon</h3>
-                  <p className="font-display text-md flex items-center">Network Planning Intern&nbsp;&nbsp;</p>
-                  <p className="font-display text-gray-500">June 2022 - Current</p>
-                </div>
     
                 <div className="flex flex-col py-8 grid gap-3 transition transform hover:translate-x-2">
                   <h3 className="font-display text-xl font-medium">Cybersense</h3>
                   <p className="font-display text-md flex items-center">Founder&nbsp;&nbsp;</p>
                   <p className="font-display text-gray-500">August 2020 - Current</p>
+                </div>
+
+                <div className="flex flex-col py-8 grid gap-3 transition transform hover:translate-x-2">
+                  <h3 className="font-display text-xl font-medium">Verizon</h3>
+                  <p className="font-display text-md flex items-center">Network Planning Intern&nbsp;&nbsp;</p>
+                  <p className="font-display text-gray-500">June 2022 - August 2022</p>
                 </div>
     
     
