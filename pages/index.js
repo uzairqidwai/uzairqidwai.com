@@ -232,7 +232,7 @@ export default function Home() {
 
                 <a href="https://github.com/uzairqidwai/tappy" target="none" className="bg-white rounded-lg flex flex-col shadow-md">
                   <div className="h-48 w-full overflow-hidden">
-                    <img className="object-cover rounded-t-lg w-auto" src="/icons/tappy.svg" />
+                    <img className="object-cover rounded-t-lg w-auto" src="/icons/c-logo.svg" />
                   </div>
                   <div className="flex-shrink-1 px-5 pb-5 pt-3">
                     <h3 className="text-xl font-display font-medium">tappy!</h3>
