@@ -94,7 +94,7 @@ export default function Home() {
                     </div>
                     <div className="flex flex-col justify-center items-start pr-5">
                       <h2 className="font-display font-medium text-xl">Cybersense</h2>
-                      <p className="font-display text-gray-500">Technological Solution</p>
+                      <p className="font-display text-gray-500">Technological Solutions</p>
                     </div>
                   </div>
                 </a>
