@@ -228,6 +228,10 @@ export default function Home() {
                     <h3 className="text-xl font-display font-medium">Coming Soon!</h3>
                     <p className="font-display mt-1 text-gray-500">Great things coming up</p>
                   </div>
+                  <div className="flex-shrink-1 px-5 pb-5 pt-3">
+                    <h3 className="text-xl font-display font-medium">Coming Soon!</h3>
+                    <p className="font-display mt-1 text-gray-500">Great things coming up</p>
+                  </div>
                 </a>
 
 
