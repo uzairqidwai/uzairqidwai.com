@@ -219,7 +219,7 @@ export default function Home() {
               <h1 className="font-display text-5xl font-semibold">Projects</h1>
               <p className="text-lg font-display text-gray-700 mt-3">Some projects I've worked on</p>
 
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-5 mt-9 max-w-6xl">
+              <div className="grid grid-cols-1 md:grid-cols-5 lg:grid-cols-5 gap-5 mt-9 max-w-6xl">
                 <a href="https://www.gocybersense.com" target="none" className="bg-white rounded-lg flex flex-col shadow-md">
                   <div className="h-48 w-full overflow-hidden">
                     <img className="object-cover rounded-t-lg w-auto" src="/icons/c-logo.svg" />
