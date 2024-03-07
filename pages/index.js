@@ -61,7 +61,7 @@ export default function Home() {
                 <h1 className="font-display text-4xl md:text-7xl font-bold">Building digital solutions, innovations and experiences</h1>
               </div>
               <div className="mt-8 px-4 md:px-0 md:max-w-sm">
-                <p className="font-display text-center whitespace-normal break-words" style={{ lineHeight: '26px' }}>I'm an ECE student with a passion for all things tech, tinkering and productivity. I have a special interest in networking and digital systems.</p>
+                <p className="font-display text-center whitespace-normal break-words" style={{ lineHeight: '26px' }}>I'm an Electrical & Computer Engineer with a passion for all things tech, tinkering and productivity. I have a special interest in networking and digital systems.</p>
               </div>
     
               <div className="flex justify-center mt-6">
@@ -118,6 +118,18 @@ export default function Home() {
                   <p className="font-display text-gray-500">August 2020 - Current</p>
                 </div>
 
+                <div className="flex flex-col py-8 grid gap-3 transition transform hover:translate-x-2">
+                  <h3 className="font-display text-xl font-medium">Verizon</h3>
+                  <p className="font-display text-md flex items-center">Software Engineer&nbsp;&nbsp;</p>
+                  <p className="font-display text-gray-500">January 2024 - Current</p>
+                </div>
+                    
+                <div className="flex flex-col py-8 grid gap-3 transition transform hover:translate-x-2">
+                  <h3 className="font-display text-xl font-medium">Verizon</h3>
+                  <p className="font-display text-md flex items-center">Network Systems Intern&nbsp;&nbsp;</p>
+                  <p className="font-display text-gray-500">June 2023 - August 2023</p>
+                </div>
+                    
                 <div className="flex flex-col py-8 grid gap-3 transition transform hover:translate-x-2">
                   <h3 className="font-display text-xl font-medium">Verizon</h3>
                   <p className="font-display text-md flex items-center">Network Planning Intern&nbsp;&nbsp;</p>
